@@ -1,0 +1,44 @@
+java.util.NoSuchElementException: next on empty iterator
+occurred in the presentation compiler.
+
+action parameters:
+offset: 670
+uri: file:///D:/учеба/Расп%20сист/Магистратура/tcp%20example/ClinetDemo.java
+text:
+import java.io.OutputStream;
+import java.net.InetAddress;
+import java.net.Socket;
+import java.net.UnknownHostException;
+import java.util.Scanner;
+
+public class ClinetDemo {
+    public static void main(String[] args) throws Exception {
+        // Open the TCP client, set the connected server IP and port number
+        Socket socket = new Socket(InetAddress.getByName("127.0.0.1"),9999);
+        // Return to the output stream of the socket
+        OutputStream os = socket.getOutputStream();
+        Scanner sc = new Scanner(System.in);
+        String msg = "";
+        // While Set the condition of the end of the loop
+        while (!"110".equals(msg =@@ sc.nextLine())){
+            System.out.println("Enter 110 End Input");
+            os.write(msg.getBytes());
+        }
+        os.close();
+
+        socket.close();
+    }
+}
+
+
+error stacktrace:
+scala.collection.Iterator$$anon$19.next(Iterator.scala:973)
+	scala.collection.Iterator$$anon$19.next(Iterator.scala:971)
+	scala.collection.mutable.MutationTracker$CheckedIterator.next(MutationTracker.scala:76)
+	scala.collection.IterableOps.head(Iterable.scala:222)
+	scala.collection.IterableOps.head$(Iterable.scala:222)
+	scala.collection.AbstractIterable.head(Iterable.scala:933)
+	dotty.tools.dotc.interactive.InteractiveDriver.run(InteractiveDriver.scala:168)
+	scala.meta.internal.pc.MetalsDriver.run(MetalsDriver.scala:45)
+	scala.meta.internal.pc.HoverProvider$.hover(HoverProvider.scala:34)
+	scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:325)

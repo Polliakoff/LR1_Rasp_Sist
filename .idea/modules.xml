@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intelj_test-build.iml" filepath="$PROJECT_DIR$/.idea/modules/intelj_test-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lR_1_Rasp_Sist.iml" filepath="$PROJECT_DIR$/.idea/modules/lR_1_Rasp_Sist.iml" />
+    </modules>
+  </component>
+</project>

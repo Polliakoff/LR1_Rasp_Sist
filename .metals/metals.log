@@ -1,0 +1,432 @@
+2023.10.11 21:08:23 INFO  Started: Metals version 1.0.1 in folders 'D:\учеба\Расп сист\Магистратура\intelj_test' for client Visual Studio Code 1.83.0.
+окт. 11, 2023 9:08:23 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.21.2 by Redgate
+окт. 11, 2023 9:08:23 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+окт. 11, 2023 9:08:23 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+окт. 11, 2023 9:08:23 PM org.flywaydb.core.FlywayExecutor execute
+INFO: Database: jdbc:h2:file:D:\учеба\Расп сист\Магистратура\intelj_test\.metals\metals (H2 2.1)
+окт. 11, 2023 9:08:23 PM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.015s)
+окт. 11, 2023 9:08:23 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": 4
+окт. 11, 2023 9:08:23 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Schema "PUBLIC" is up to date. No migration necessary.
+2023.10.11 21:08:24 INFO  time: initialize in 0.55s
+2023.10.11 21:08:25 INFO  Attempting to connect to the build server...
+2023.10.11 21:08:25 INFO  skipping build import with status 'Installed'
+2023.10.11 21:08:25 INFO  Bloop uses C:\Users\Nexus\AppData\Local\Coursier\cache\arc\https\github.com\adoptium\temurin11-binaries\releases\download\jdk-11.0.20.1%252B1\OpenJDK11U-jdk_x64_windows_hotspot_11.0.20.1_1.zip\jdk-11.0.20.1+1 defined at C:\Users\Nexus\.bloop\bloop.json
+2023.10.11 21:08:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\учеба\Расп сист\Магистратура\intelj_test\.metals\bsp.trace.json or C:\Users\Nexus\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.10.11 21:08:25 INFO  Attempting to connect to the build server...
+2023.10.11 21:08:25 INFO  Bloop uses C:\Users\Nexus\AppData\Local\Coursier\cache\arc\https\github.com\adoptium\temurin11-binaries\releases\download\jdk-11.0.20.1%252B1\OpenJDK11U-jdk_x64_windows_hotspot_11.0.20.1_1.zip\jdk-11.0.20.1+1 defined at C:\Users\Nexus\.bloop\bloop.json
+2023.10.11 21:08:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\учеба\Расп сист\Магистратура\intelj_test\project\.metals\bsp.trace.json or C:\Users\Nexus\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.10.11 21:08:25 INFO  time: Connected to build server in 0.21s
+2023.10.11 21:08:25 INFO  Connected to Build server: Bloop v1.5.8
+2023.10.11 21:08:27 INFO  no build target found for D:\учеба\Расп сист\Магистратура\intelj_test\src\main\scala\ServerTCP.scala. Using presentation compiler with project's scala-library version: 3.3.0
+2023.10.11 21:08:28 INFO  time: code lens generation in 2.33s
+2023.10.11 21:08:33 INFO  time: indexed workspace in 5.5s
+java.lang.AssertionError: assertion failed while typechecking D:/учеба/Расп сист/Магистратура/intelj_test/src/main/scala/ServerTCP.scala
+окт. 11, 2023 9:08:37 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\учеба\Расп сист\Магистратура\intelj_test\.metals\.reports\metals-full\2023-10-11\r_compiler-error_21-08-37-932
+2023.10.11 21:08:37 WARN  Could not find semantic tokens for: file:///D:/учеба/Расп%20сист/Магистратура/intelj_test/src/main/scala/ServerTCP.scala
+2023.10.11 21:09:37 INFO  Shutting down server
+2023.10.11 21:09:37 INFO  shutting down Metals
+2023.10.11 21:09:37 INFO  Shut down connection with build server.
+2023.10.11 21:09:37 INFO  Shut down connection with build server.
+2023.10.11 21:09:37 INFO  Exiting server
+2023.10.11 21:45:08 INFO  Started: Metals version 1.0.1 in folders 'D:\учеба\Расп сист\Магистратура\intelj_test' for client Visual Studio Code 1.83.0.
+окт. 11, 2023 9:45:09 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.21.2 by Redgate
+окт. 11, 2023 9:45:09 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+окт. 11, 2023 9:45:09 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+окт. 11, 2023 9:45:09 PM org.flywaydb.core.FlywayExecutor execute
+INFO: Database: jdbc:h2:file:D:\учеба\Расп сист\Магистратура\intelj_test\.metals\metals (H2 2.1)
+окт. 11, 2023 9:45:09 PM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.016s)
+окт. 11, 2023 9:45:09 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": 4
+окт. 11, 2023 9:45:09 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Schema "PUBLIC" is up to date. No migration necessary.
+2023.10.11 21:45:09 INFO  time: initialize in 0.45s
+2023.10.11 21:45:10 INFO  Attempting to connect to the build server...
+2023.10.11 21:45:10 INFO  Bloop uses C:\Users\Nexus\AppData\Local\Coursier\cache\arc\https\github.com\adoptium\temurin11-binaries\releases\download\jdk-11.0.20.1%252B1\OpenJDK11U-jdk_x64_windows_hotspot_11.0.20.1_1.zip\jdk-11.0.20.1+1 defined at C:\Users\Nexus\.bloop\bloop.json
+2023.10.11 21:45:10 INFO  skipping build import with status 'Installed'
+2023.10.11 21:45:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\учеба\Расп сист\Магистратура\intelj_test\.metals\bsp.trace.json or C:\Users\Nexus\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.10.11 21:45:10 INFO  Attempting to connect to the build server...
+2023.10.11 21:45:10 INFO  Bloop uses C:\Users\Nexus\AppData\Local\Coursier\cache\arc\https\github.com\adoptium\temurin11-binaries\releases\download\jdk-11.0.20.1%252B1\OpenJDK11U-jdk_x64_windows_hotspot_11.0.20.1_1.zip\jdk-11.0.20.1+1 defined at C:\Users\Nexus\.bloop\bloop.json
+2023.10.11 21:45:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\учеба\Расп сист\Магистратура\intelj_test\project\.metals\bsp.trace.json or C:\Users\Nexus\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.10.11 21:45:10 INFO  time: Connected to build server in 0.5s
+2023.10.11 21:45:10 INFO  Connected to Build server: Bloop v1.5.8
+2023.10.11 21:45:14 INFO  time: indexed workspace in 3.43s
+2023.10.11 21:48:08 INFO  compiling root (2 scala sources)
+2023.10.11 21:48:08 INFO  time: compiled root in 0.25s
+java.lang.AssertionError: assertion failed while typechecking D:/учеба/Расп сист/Магистратура/intelj_test/src/main/scala/ServerTCP.scala
+окт. 11, 2023 9:48:09 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\учеба\Расп сист\Магистратура\intelj_test\.metals\.reports\metals-full\2023-10-11\r_compiler-error_21-48-09-652
+2023.10.11 21:48:09 WARN  Could not find semantic tokens for: file:///D:/учеба/Расп%20сист/Магистратура/intelj_test/src/main/scala/ServerTCP.scala
+2023.10.11 21:48:39 WARN  no build target for: D:\учеба\Расп сист\Магистратура\tcp example\ClinetDemo.java
+окт. 11, 2023 9:48:40 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\учеба\Расп сист\Магистратура\intelj_test\.metals\.reports\metals-full\2023-10-11\r_compiler-error_21-48-40-209
+окт. 11, 2023 9:48:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+2023.10.11 21:48:40 WARN  Running javac-semanticdb failed for file:///D:/учеба/Расп%20сист/Магистратура/tcp%20example/ClinetDemo.java. Output:
+
+окт. 11, 2023 9:48:41 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\учеба\Расп сист\Магистратура\intelj_test\.metals\.reports\metals-full\2023-10-11\r_compiler-error_21-48-41-000
+окт. 11, 2023 9:48:43 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\учеба\Расп сист\Магистратура\intelj_test\.metals\.reports\metals-full\2023-10-11\r_compiler-error_21-48-43-521
+окт. 11, 2023 9:48:43 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\учеба\Расп сист\Магистратура\intelj_test\.metals\.reports\metals-full\2023-10-11\r_compiler-error_21-48-43-614
+окт. 11, 2023 9:48:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27
+окт. 11, 2023 9:48:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28
+окт. 11, 2023 9:48:44 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\учеба\Расп сист\Магистратура\intelj_test\.metals\.reports\metals-full\2023-10-11\r_compiler-error_21-48-44-322
+окт. 11, 2023 9:48:44 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\учеба\Расп сист\Магистратура\intelj_test\.metals\.reports\metals-full\2023-10-11\r_compiler-error_21-48-44-638
+окт. 11, 2023 9:48:46 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\учеба\Расп сист\Магистратура\intelj_test\.metals\.reports\metals-full\2023-10-11\r_compiler-error_21-48-46-561
+окт. 11, 2023 9:48:46 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\учеба\Расп сист\Магистратура\intelj_test\.metals\.reports\metals-full\2023-10-11\r_compiler-error_21-48-46-984
+окт. 11, 2023 9:48:47 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\учеба\Расп сист\Магистратура\intelj_test\.metals\.reports\metals-full\2023-10-11\r_compiler-error_21-48-47-286
+окт. 11, 2023 9:48:48 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\учеба\Расп сист\Магистратура\intelj_test\.metals\.reports\metals-full\2023-10-11\r_compiler-error_21-48-48-473
+окт. 11, 2023 9:48:48 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\учеба\Расп сист\Магистратура\intelj_test\.metals\.reports\metals-full\2023-10-11\r_compiler-error_21-48-48-786
+окт. 11, 2023 9:48:49 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\учеба\Расп сист\Магистратура\intelj_test\.metals\.reports\metals-full\2023-10-11\r_compiler-error_21-48-49-121
+окт. 11, 2023 9:49:19 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\учеба\Расп сист\Магистратура\intelj_test\.metals\.reports\metals-full\2023-10-11\r_compiler-error_21-49-19-161
+окт. 11, 2023 9:49:20 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\учеба\Расп сист\Магистратура\intelj_test\.metals\.reports\metals-full\2023-10-11\r_compiler-error_21-49-20-212
+2023.10.11 22:12:49 INFO  compiling root (1 scala source)
+2023.10.11 22:12:49 INFO  time: compiled root in 0.18s
+окт. 11, 2023 10:12:49 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\учеба\Расп сист\Магистратура\intelj_test\.metals\.reports\metals-full\2023-10-11\r_compiler-error_22-12-49-821
+окт. 11, 2023 10:12:50 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\учеба\Расп сист\Магистратура\intelj_test\.metals\.reports\metals-full\2023-10-11\r_compiler-error_22-12-50-310
+окт. 11, 2023 10:12:50 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\учеба\Расп сист\Магистратура\intelj_test\.metals\.reports\metals-full\2023-10-11\r_compiler-error_22-12-50-624
+2023.10.11 22:13:22 INFO  compiling root (1 scala source)
+2023.10.11 22:13:22 INFO  time: compiled root in 0.22s
+2023.10.11 22:14:28 INFO  compiling root (1 scala source)
+2023.10.11 22:14:28 INFO  time: compiled root in 0.21s
+2023.10.11 22:16:13 INFO  compiling root (1 scala source)
+2023.10.11 22:16:13 INFO  time: compiled root in 0.19s
+2023.10.11 22:51:06 INFO  compiling root (2 scala sources)
+2023.10.11 22:51:06 INFO  time: compiled root in 0.29s
+2023.10.11 22:51:08 INFO  Shutting down server
+2023.10.11 22:51:08 INFO  shutting down Metals
+2023.10.11 22:51:08 INFO  Shut down connection with build server.
+2023.10.11 22:51:08 INFO  Shut down connection with build server.
+2023.10.11 22:51:08 INFO  Exiting server
+2023.10.12 22:11:25 INFO  Started: Metals version 1.0.1 in folders 'D:\учеба\Расп сист\Магистратура\intelj_test' for client Visual Studio Code 1.83.0.
+окт. 12, 2023 10:11:25 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.21.2 by Redgate
+окт. 12, 2023 10:11:25 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+окт. 12, 2023 10:11:25 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+окт. 12, 2023 10:11:25 PM org.flywaydb.core.FlywayExecutor execute
+INFO: Database: jdbc:h2:file:D:\учеба\Расп сист\Магистратура\intelj_test\.metals\metals (H2 2.1)
+окт. 12, 2023 10:11:25 PM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.016s)
+окт. 12, 2023 10:11:25 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": 4
+окт. 12, 2023 10:11:25 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Schema "PUBLIC" is up to date. No migration necessary.
+2023.10.12 22:11:25 INFO  time: initialize in 0.44s
+2023.10.12 22:11:27 INFO  Attempting to connect to the build server...
+2023.10.12 22:11:27 INFO  skipping build import with status 'Installed'
+2023.10.12 22:11:27 INFO  Bloop uses C:\Users\Nexus\AppData\Local\Coursier\cache\arc\https\github.com\adoptium\temurin11-binaries\releases\download\jdk-11.0.20.1%252B1\OpenJDK11U-jdk_x64_windows_hotspot_11.0.20.1_1.zip\jdk-11.0.20.1+1 defined at C:\Users\Nexus\.bloop\bloop.json
+2023.10.12 22:11:31 INFO  no build target found for D:\учеба\Расп сист\Магистратура\intelj_test\src\main\scala\ServerTCP.scala. Using presentation compiler with project's scala-library version: 3.3.0
+2023.10.12 22:11:33 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\учеба\Расп сист\Магистратура\intelj_test\.metals\bsp.trace.json or C:\Users\Nexus\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.10.12 22:11:33 INFO  Attempting to connect to the build server...
+2023.10.12 22:11:33 INFO  Bloop uses C:\Users\Nexus\AppData\Local\Coursier\cache\arc\https\github.com\adoptium\temurin11-binaries\releases\download\jdk-11.0.20.1%252B1\OpenJDK11U-jdk_x64_windows_hotspot_11.0.20.1_1.zip\jdk-11.0.20.1+1 defined at C:\Users\Nexus\.bloop\bloop.json
+2023.10.12 22:11:33 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\учеба\Расп сист\Магистратура\intelj_test\project\.metals\bsp.trace.json or C:\Users\Nexus\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.10.12 22:11:33 INFO  time: Connected to build server in 6.47s
+2023.10.12 22:11:33 INFO  Connected to Build server: Bloop v1.5.8
+2023.10.12 22:11:34 INFO  time: Imported build in 0.15s
+2023.10.12 22:11:34 INFO  time: code lens generation in 6.78s
+2023.10.12 22:11:35 INFO  no build target found for D:\учеба\Расп сист\Магистратура\intelj_test\src\main\scala\ClientUDP.scala. Using presentation compiler with project's scala-library version: 3.3.0
+2023.10.12 22:11:35 INFO  time: code lens generation in 3.72s
+окт. 12, 2023 10:11:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$: Build misconfiguration. No semanticdb can be found for you file, please check the doctor.
+java.util.concurrent.CompletionException: scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$: Build misconfiguration. No semanticdb can be found for you file, please check the doctor.
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:743)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:731)
+	at java.base/java.util.concurrent.CompletableFuture.thenAcceptAsync(CompletableFuture.java:2112)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.thenAccept(FutureConvertersImpl.scala:37)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:279)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$: Build misconfiguration. No semanticdb can be found for you file, please check the doctor.
+	at scala.meta.internal.metals.debug.DebugProvider$SemanticDbNotFoundException$.<clinit>(DebugProvider.scala:923)
+	at scala.meta.internal.metals.debug.DebugProvider.$anonfun$resolveInFile$1(DebugProvider.scala:341)
+	at scala.Option.fold(Option.scala:263)
+	at scala.meta.internal.metals.debug.DebugProvider.resolveInFile(DebugProvider.scala:342)
+	at scala.meta.internal.metals.debug.DebugProvider.debugDiscovery(DebugProvider.scala:476)
+	at scala.meta.internal.metals.MetalsLspService.debugDiscovery(MetalsLspService.scala:1803)
+	at scala.meta.internal.metals.WorkspaceLspService.executeCommand(WorkspaceLspService.scala:869)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	... 9 more
+
+2023.10.12 22:11:36 INFO  compiling root (3 scala sources)
+2023.10.12 22:11:40 INFO  time: indexed workspace in 6.01s
+2023.10.12 22:11:40 INFO  time: compiled root in 3.55s
+2023.10.12 22:12:07 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\учеба\Расп сист\Магистратура\intelj_test\.metals\dap-server.trace.json or C:\Users\Nexus\AppData\Local\scalameta\metals\cache\dap-server.trace.json
+2023.10.12 22:12:07 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\учеба\Расп сист\Магистратура\intelj_test\.metals\dap-client.trace.json or C:\Users\Nexus\AppData\Local\scalameta\metals\cache\dap-client.trace.json
+2023.10.12 22:12:07 INFO  Starting debug proxy for [ClientUDP]
+2023.10.12 22:12:08 INFO  Loaded expression compiler in 756 milliseconds
+2023.10.12 22:12:08 INFO  C:\Users\Nexus\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\ch\epfl\scala\scala-debug-step-filter_3\3.1.3\scala-debug-step-filter_3-3.1.3.jar
+2023.10.12 22:12:08 INFO  C:\Users\Nexus\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\tasty-core_3\3.3.1\tasty-core_3-3.3.1.jar
+2023.10.12 22:12:08 INFO  C:\Users\Nexus\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala3-library_3\3.3.1\scala3-library_3-3.3.1.jar
+2023.10.12 22:12:08 INFO  C:\Users\Nexus\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\ch\epfl\scala\tasty-query_3\0.7.9\tasty-query_3-0.7.9.jar
+2023.10.12 22:12:08 INFO  C:\Users\Nexus\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.10\scala-library-2.13.10.jar
+2023.10.12 22:12:08 INFO  Loaded step filter in 53 milliseconds
+2023.10.12 22:12:10 INFO  Loaded all sources and classes in 1 second
+2023.10.12 22:12:10 INFO  Trying to attach to remote debuggee VM 127.0.0.1:54876 .
+2023.10.12 22:12:10 INFO  Attaching to debuggee VM succeeded.
+2023.10.12 22:12:15 ERROR Could not find any completions for the debugger
+java.lang.Exception: No source data available
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleClientMessage$13(DebugProxy.scala:142)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleClientMessage$1(DebugProxy.scala:142)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.$anonfun$listen$1(MessageIdAdapter.scala:57)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at scala.meta.internal.metals.debug.SocketEndpoint.listen(SocketEndpoint.scala:26)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.listen(MessageIdAdapter.scala:47)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$listenToClient$1(DebugProxy.scala:69)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2023.10.12 22:12:15 ERROR Could not find any completions for the debugger
+java.lang.Exception: No source data available
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleClientMessage$13(DebugProxy.scala:142)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleClientMessage$1(DebugProxy.scala:142)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.$anonfun$listen$1(MessageIdAdapter.scala:57)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at scala.meta.internal.metals.debug.SocketEndpoint.listen(SocketEndpoint.scala:26)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.listen(MessageIdAdapter.scala:47)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$listenToClient$1(DebugProxy.scala:69)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2023.10.12 22:12:15 ERROR Could not find any completions for the debugger
+java.lang.Exception: No source data available
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleClientMessage$13(DebugProxy.scala:142)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleClientMessage$1(DebugProxy.scala:142)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.$anonfun$listen$1(MessageIdAdapter.scala:57)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at scala.meta.internal.metals.debug.SocketEndpoint.listen(SocketEndpoint.scala:26)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.listen(MessageIdAdapter.scala:47)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$listenToClient$1(DebugProxy.scala:69)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2023.10.12 22:12:16 ERROR Could not find any completions for the debugger
+java.lang.Exception: No source data available
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleClientMessage$13(DebugProxy.scala:142)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleClientMessage$1(DebugProxy.scala:142)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.$anonfun$listen$1(MessageIdAdapter.scala:57)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at scala.meta.internal.metals.debug.SocketEndpoint.listen(SocketEndpoint.scala:26)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.listen(MessageIdAdapter.scala:47)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$listenToClient$1(DebugProxy.scala:69)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2023.10.12 22:12:16 ERROR Could not find any completions for the debugger
+java.lang.Exception: No source data available
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleClientMessage$13(DebugProxy.scala:142)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleClientMessage$1(DebugProxy.scala:142)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.$anonfun$listen$1(MessageIdAdapter.scala:57)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at scala.meta.internal.metals.debug.SocketEndpoint.listen(SocketEndpoint.scala:26)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.listen(MessageIdAdapter.scala:47)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$listenToClient$1(DebugProxy.scala:69)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2023.10.12 22:12:17 ERROR Could not find any completions for the debugger
+java.lang.Exception: No source data available
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleClientMessage$13(DebugProxy.scala:142)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleClientMessage$1(DebugProxy.scala:142)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.$anonfun$listen$1(MessageIdAdapter.scala:57)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at scala.meta.internal.metals.debug.SocketEndpoint.listen(SocketEndpoint.scala:26)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.listen(MessageIdAdapter.scala:47)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$listenToClient$1(DebugProxy.scala:69)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2023.10.12 22:12:16 ERROR Could not find any completions for the debugger
+java.lang.Exception: No source data available
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleClientMessage$13(DebugProxy.scala:142)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleClientMessage$1(DebugProxy.scala:142)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.$anonfun$listen$1(MessageIdAdapter.scala:57)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at scala.meta.internal.metals.debug.SocketEndpoint.listen(SocketEndpoint.scala:26)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.listen(MessageIdAdapter.scala:47)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$listenToClient$1(DebugProxy.scala:69)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2023.10.12 22:12:17 ERROR Could not find any completions for the debugger
+java.lang.Exception: No source data available
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleClientMessage$13(DebugProxy.scala:142)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleClientMessage$1(DebugProxy.scala:142)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.$anonfun$listen$1(MessageIdAdapter.scala:57)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at scala.meta.internal.metals.debug.SocketEndpoint.listen(SocketEndpoint.scala:26)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.listen(MessageIdAdapter.scala:47)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$listenToClient$1(DebugProxy.scala:69)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2023.10.12 22:12:23 ERROR Could not find any completions for the debugger
+java.lang.Exception: No source data available
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleClientMessage$13(DebugProxy.scala:142)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleClientMessage$1(DebugProxy.scala:142)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.$anonfun$listen$1(MessageIdAdapter.scala:57)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at scala.meta.internal.metals.debug.SocketEndpoint.listen(SocketEndpoint.scala:26)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.listen(MessageIdAdapter.scala:47)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$listenToClient$1(DebugProxy.scala:69)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2023.10.12 22:12:23 ERROR Could not find any completions for the debugger
+java.lang.Exception: No source data available
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleClientMessage$13(DebugProxy.scala:142)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleClientMessage$1(DebugProxy.scala:142)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.$anonfun$listen$1(MessageIdAdapter.scala:57)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at scala.meta.internal.metals.debug.SocketEndpoint.listen(SocketEndpoint.scala:26)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.listen(MessageIdAdapter.scala:47)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$listenToClient$1(DebugProxy.scala:69)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2023.10.12 22:12:23 ERROR Could not find any completions for the debugger
+java.lang.Exception: No source data available
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleClientMessage$13(DebugProxy.scala:142)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleClientMessage$1(DebugProxy.scala:142)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.$anonfun$listen$1(MessageIdAdapter.scala:57)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at scala.meta.internal.metals.debug.SocketEndpoint.listen(SocketEndpoint.scala:26)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.listen(MessageIdAdapter.scala:47)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$listenToClient$1(DebugProxy.scala:69)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2023.10.12 22:12:23 ERROR Could not find any completions for the debugger
+java.lang.Exception: No source data available
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleClientMessage$13(DebugProxy.scala:142)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$handleClientMessage$1(DebugProxy.scala:142)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.$anonfun$listen$1(MessageIdAdapter.scala:57)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at scala.meta.internal.metals.debug.SocketEndpoint.listen(SocketEndpoint.scala:26)
+	at scala.meta.internal.metals.debug.MessageIdAdapter.listen(MessageIdAdapter.scala:47)
+	at scala.meta.internal.metals.debug.DebugProxy.$anonfun$listenToClient$1(DebugProxy.scala:69)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2023.10.12 22:13:07 INFO  Canceling debug proxy for [ClientUDP]
+2023.10.12 22:13:07 INFO  Closing debug server tcp://0.0.0.0:54873
+2023.10.12 22:13:48 INFO  Shutting down server
+2023.10.12 22:13:48 INFO  shutting down Metals
+2023.10.12 22:13:48 INFO  Shut down connection with build server.
+2023.10.12 22:13:48 INFO  Shut down connection with build server.
+2023.10.12 22:13:48 INFO  Exiting server
